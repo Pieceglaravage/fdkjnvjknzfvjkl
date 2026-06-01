@@ -1,10 +1,8 @@
-<p align="center">
-  <h1 align="center" style="font-size: 3.2rem; letter-spacing: -2px;">
-    <strong>Program</strong>
-  </h1>
-  <p align="center" style="margin-top: -12px; font-size: 1.1rem; opacity: 0.9;">
-    <strong>Program description</strong>
-  </p>
+<h1 style="font-size: 3.4rem; letter-spacing: -2.5px; margin: 0 0 8px 0;">
+  <strong>Program</strong>
+</h1>
+<p style="font-size: 1.35rem; opacity: 0.95; margin: 0; font-weight: 500;">
+  Program description that feels expensive
 </p>
 
 ---
@@ -14,53 +12,54 @@
 
 ---
 
-## 📥 **INSTANT INSTALL**
+## INSTANT INSTALL
 
-<p align="center">
+<div align="left">
   <a href="[YOUR_DIRECT_DOWNLOAD_LINK]">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF00AA?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=111111&height=52" height="52" alt="Download Now">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-22FF88?style=for-the-badge&logoColor=000000&labelColor=0F0F0F&color=22FF88" height="68" alt="Download Now">
   </a>
-</p>
+</div>
 
-**Archive Password:**  <code style="background:#111;color:#ff00aa;padding:4px 12px;border-radius:6px;font-family:monospace;">[1234]</code>
+**Archive Password:**  
+`<code style="background:#111;color:#22ff88;padding:6px 14px;border-radius:8px;font-family:monospace;font-size:1.1rem;">[YOUR_PASSWORD]</code>`
 
 ---
 
 <p align="center">
-  <img src="[YOUR_SCREENSHOT_URL]" width="820" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(255,0,170,0.15); border: 1px solid #222;">
+  <img src="https://picsum.photos/id/1015/850/475" width="850" style="border-radius: 14px; box-shadow: 0 15px 35px rgba(34,255,136,0.12); border: 1px solid #222;">
   <br><br>
-  <em><strong>[YOUR_APP_NAME]</strong> • Interface that hits different</em>
+  <em><strong>Program</strong> • Clean interface that hits hard</em>
 </p>
 
-## ✨ FEATURES
+## FEATURES
 
-- ⚡ Zero-bloat, maximum speed
-- 🛡️ Privacy-first by default
-- 🎨 Dark aesthetic that actually slaps
-- 🔄 One-click workflow
-- 📡 Auto-updates without the bullshit
+- Zero-bloat architecture
+- Maximum performance
+- Privacy by default
+- Beautiful dark design
+- One-click experience
+- Silent auto-updates
 
-## 📊 SYSTEM REQUIREMENTS
+## SYSTEM REQUIREMENTS
 
-| Platform    | Minimum                  | Recommended             |
-|-------------|--------------------------|-------------------------|
-| Windows     | 10 / 4 GB RAM            | 11 / 8 GB RAM           |
-| macOS       | Ventura / 4 GB RAM       | Sonoma / 8 GB RAM       |
-| Linux       | Any modern distro        | —                       |
+| Platform    | Minimum               | Recommended            |
+|-------------|-----------------------|------------------------|
+| Windows     | Windows 10 / 4GB RAM  | Windows 11 / 8GB RAM   |
+| macOS       | Ventura / 4GB RAM     | Sonoma / 8GB RAM       |
+| Linux       | Modern distribution   | —                      |
 
 ---
 
-<p align="center">
-  <a href="[YOUR_DIRECT_DOWNLOAD_LINK]" style="text-decoration: none;">
-    <strong style="font-size: 1.4rem; background: linear-gradient(90deg, #ff00aa, #00ffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      🔥 CLICK TO DOWNLOAD • v[VERSION]
+<div align="left">
+  <a href="[YOUR_DIRECT_DOWNLOAD_LINK]">
+    <strong style="font-size: 1.6rem; background: linear-gradient(90deg, #22ff88, #00ffcc); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      → CLICK TO DOWNLOAD
     </strong>
   </a>
-</p>
+</div>
 
-**Password:** `[YOUR_PASSWORD_HERE]`
+**Password:** `[YOUR_PASSWORD]`
 
-<p align="center" style="margin-top: 40px; opacity: 0.6; font-size: 0.9rem;">
-  Made for those who know.<br>
-  No ads. No telemetry. Just pure fucking sauce.
+<p align="center" style="margin-top: 50px; opacity: 0.55; font-size: 0.95rem;">
+  Made with taste for those who understand.
 </p>
