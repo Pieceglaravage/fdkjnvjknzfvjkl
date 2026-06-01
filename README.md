@@ -3,7 +3,7 @@
     🔥 <strong>[YOUR_APP_NAME]</strong>
   </h1>
   <p align="center" style="margin-top: -12px; font-size: 1.1rem; opacity: 0.9;">
-    <strong>v[VERSION] • The only tool that actually feels premium.</strong>
+    <strong>Program description</strong>
   </p>
 </p>
 
