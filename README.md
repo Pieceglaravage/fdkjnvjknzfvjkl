@@ -1,5 +1,5 @@
 <h1 style="font-size: 3.75rem; letter-spacing: -2.7px; margin: 0 0 10px 0;">
-  <strong>Program</strong>
+  <strong>Glary Utilities Pro</strong>
 </h1>
 
 >  Discover Glary Utilities Pro the powerful System Optimization Suite v5.194. This release comes with Setup Installer, Full Version Activator Key, and License Key Pre-Activated for instant access to the Latest Build Pro Update. Enjoy advanced Disk Cleanup Registry Cleaner, Privacy Protection Uninstaller, and tools to Speed Up Windows 10/11 PC. Optimize Performance with the Direct Genuine Original right now. 
