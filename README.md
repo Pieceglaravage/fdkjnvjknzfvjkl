@@ -10,7 +10,7 @@
 
 <div align="left">
   <a href="[YOUR_DIRECT_DOWNLOAD_LINK]" style="font-size: 1.95rem; font-weight: 700; color: #02ab24; text-decoration: none;">
-    ⬇ DOWNLOAD NOW
+    DOWNLOAD NOW
   </a>
 </div>
 
@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="[YOUR_DIRECT_DOWNLOAD_LINK]" style="font-size: 2.25rem; font-weight: 900; text-decoration: none;">
-    ⬇️ CLICK TO DOWNLOAD ⬇️
+    CLICK TO DOWNLOAD
   </a>
 </p>
 
