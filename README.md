@@ -4,7 +4,7 @@
 
 > **"Minimal by design.<br>Brutal by execution."**
 
-<hr style="border: 0.5px solid #333; margin: 24px 0;">
+<hr style="height:1px; border:none; background:#222; margin: 28px 0;">
 
 ## Installation
 
@@ -20,7 +20,7 @@
 1. Download and extract the archive  
 2. Run the `.exe` file
 
-<hr style="border: 0.5px solid #333; margin: 24px 0;">
+<hr style="height:1px; border:none; background:#222; margin: 28px 0;">
 
 <p align="center">
   <img src="https://picsum.photos/id/1015/880/490" width="880" style="border-radius: 16px;">
@@ -28,7 +28,7 @@
   <em><strong>Program</strong> • Clean interface that hits different</em>
 </p>
 
-<hr style="border: 0.5px solid #333; margin: 24px 0;">
+<hr style="height:1px; border:none; background:#222; margin: 28px 0;">
 
 ## Features
 
@@ -38,7 +38,7 @@
 - Beautiful dark design
 - One-click workflow
 
-<hr style="border: 0.5px solid #333; margin: 24px 0;">
+<hr style="height:1px; border:none; background:#222; margin: 28px 0;">
 
 ## System Requirements
 
@@ -48,7 +48,7 @@
 | macOS    | Ventura / 4 GB    | Sonoma / 8 GB       |
 | Linux    | Modern distro     | —                   |
 
-<hr style="border: 0.5px solid #333; margin: 24px 0;">
+<hr style="height:1px; border:none; background:#222; margin: 28px 0;">
 
 <p align="center">
   <a href="[YOUR_DIRECT_DOWNLOAD_LINK]" style="font-size: 2.25rem; font-weight: 900; text-decoration: none;">
