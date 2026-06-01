@@ -4,7 +4,6 @@
 
 > **"Minimal by design.<br>Brutal by execution."**
 
----
 
 ## Installation
 
@@ -16,7 +15,7 @@
 
 **Archive Password:** <code style="background:#1e2937;color:#86efac;padding:12px 40px;border-radius:8px;font-family:monospace;font-size:1.35rem;">[YOUR_PASSWORD]</code>
 
-**Instruction:**
+##  Instruction:
 1. Download and extract the archive  
 2. Run the `.exe` file
 
