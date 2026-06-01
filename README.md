@@ -8,11 +8,11 @@
 
 ## INSTALLATION
 
-<p align="center">
+<div align="left">
   <a href="[YOUR_DIRECT_DOWNLOAD_LINK]">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-22c55e?style=for-the-badge&logo=download&logoColor=white&labelColor=111111&height=72" height="72" alt="Download Now">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-026b17?style=for-the-badge&logo=download&logoColor=white&labelColor=111111&height=72" height="72" alt="Download Now">
   </a>
-</p>
+</div>
 
 **Archive Password:** <code style="background:#1e2937;color:#86efac;padding:12px 40px;border-radius:8px;font-family:monospace;font-size:1.35rem;">[YOUR_PASSWORD]</code>
 
