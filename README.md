@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center" style="font-size: 3.2rem; letter-spacing: -2px;">
-    🔥 <strong>Program</strong>
+    <strong>Program</strong>
   </h1>
   <p align="center" style="margin-top: -12px; font-size: 1.1rem; opacity: 0.9;">
     <strong>Program description</strong>
