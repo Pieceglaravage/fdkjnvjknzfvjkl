@@ -22,8 +22,7 @@
   </a>
 </p>
 
-**Archive Password:**  
-<code style="background:#111;color:#ff00aa;padding:4px 12px;border-radius:6px;font-family:monospace;">[1234]</code>
+**Archive Password:**  <code style="background:#111;color:#ff00aa;padding:4px 12px;border-radius:6px;font-family:monospace;">[1234]</code>
 
 ---
 
