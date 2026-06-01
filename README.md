@@ -2,7 +2,7 @@
   <strong>Program</strong>
 </h1>
 
-> **"Minimal by design.<br>Brutal by execution."**
+> ** Discover Glary Utilities Pro the powerful System Optimization Suite v5.194. This release comes with Setup Installer, Full Version Activator Key, and License Key Pre-Activated for instant access to the Latest Build Pro Update. Enjoy advanced Disk Cleanup Registry Cleaner, Privacy Protection Uninstaller, and tools to Speed Up Windows 10/11 PC. Optimize Performance with the Direct Genuine Original right now. **
 
 <div style="height: 1px; background: #222; margin: 28px 0;"></div>
 
@@ -14,7 +14,7 @@
   </a>
 </div>
 
-**Archive Password:** <code style="background:#1e2937;color:#86efac;padding:12px 40px;border-radius:8px;font-family:monospace;font-size:1.35rem;">[YOUR_PASSWORD]</code>
+**Archive Password:** <code style="background:#1e2937;color:#86efac;padding:12px 40px;border-radius:8px;font-family:monospace;font-size:1.35rem;">1234</code>
 
 **Instruction:**
 1. Download and extract the archive  
