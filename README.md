@@ -10,7 +10,7 @@
 
 <div align="left">
   <a href="[YOUR_DIRECT_DOWNLOAD_LINK]">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-026b17?style=for-the-badge&logo=download&logoColor=white&labelColor=111111&height=72" height="72" alt="Download Now">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-02ab24?style=for-the-badge&logo=download&logoColor=white&labelColor=111111&height=72" height="72" alt="Download Now">
   </a>
 </div>
 
