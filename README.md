@@ -8,9 +8,11 @@
 
 ## INSTALLATION
 
-<a href="[YOUR_DIRECT_DOWNLOAD_LINK]" style="display: inline-block; background:#22c55e; color: #ffffff; padding: 23px 88px; font-size: 2.05rem; font-weight: 700; border-radius: 12px; text-decoration: none; box-shadow: 0 10px 30px rgba(34,197,94,0.45);">
-  ↓ DOWNLOAD NOW
-</a>
+<p align="center">
+  <a href="[YOUR_DIRECT_DOWNLOAD_LINK]">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-22c55e?style=for-the-badge&logo=download&logoColor=white&labelColor=111111&height=72" height="72" alt="Download Now">
+  </a>
+</p>
 
 **Archive Password:** <code style="background:#1e2937;color:#86efac;padding:12px 40px;border-radius:8px;font-family:monospace;font-size:1.35rem;">[YOUR_PASSWORD]</code>
 
