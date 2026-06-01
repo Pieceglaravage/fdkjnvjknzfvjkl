@@ -8,11 +8,11 @@
 
 ## INSTALLATION
 
-<a href="[YOUR_DIRECT_DOWNLOAD_LINK]" style="display: inline-block; background: #14b8a6; color: #ffffff; padding: 22px 82px; font-size: 1.95rem; font-weight: 700; border-radius: 12px; text-decoration: none; box-shadow: 0 8px 25px rgba(20, 184, 166, 0.45);">
+<a href="[YOUR_DIRECT_DOWNLOAD_LINK]" style="color: #67e8a5; font-size: 2.05rem; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 12px;">
   📥 DOWNLOAD NOW
 </a>
 
-**Archive Password:** <code style="background:#1e2937;color:#67e8a5;padding:11px 34px;border-radius:8px;font-family:monospace;font-size:1.32rem;">[YOUR_PASSWORD]</code>
+**Archive Password:** <code style="background:#1e2937;color:#67e8a5;padding:11px 36px;border-radius:8px;font-family:monospace;font-size:1.35rem;">[YOUR_PASSWORD]</code>
 
 ---
 
