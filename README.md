@@ -9,7 +9,7 @@
 ## Installation
 
 <div align="left">
-  <a href="[YOUR_DIRECT_DOWNLOAD_LINK]" style="font-size: 1.95rem; font-weight: 700; color: #02ab24; text-decoration: none;">
+  <a href="[YOUR_DIRECT_DOWNLOAD_LINK]" style="font-size: 1.95rem; font-weight: 700; color: #02ab24; text-decoration: none; bold">
     DOWNLOAD NOW
   </a>
 </div>
